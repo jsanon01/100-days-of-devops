@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 100 Days Of Cloud DevOps Challenge
 
 Welcome to my 100 days of Cloud DevOps Challenges!
@@ -14,3 +15,6 @@ On November 7th, 2020 I'm committed one hour, every day, for the next 100 days f
 
 - [Activity Log](log.md)
 - [Resources](resources.md)
+=======
+# 100-days-of-devops
+>>>>>>> 7e8044025a0c5d1228cd5d38ccc5f1fd1cecc7a6
