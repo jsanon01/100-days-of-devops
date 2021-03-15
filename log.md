@@ -36,9 +36,10 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 **Thoughts**: Today, it is all about VPC as a Networking Service and how it is related logically and physically to its components. 
 
 
-**Work & Resources:**:
+**Work & Resources:**: 
 
-[Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
+![Virtual Private Cloud](https://github.com/jsanon01/100-days-of-devops/blob/main/images/custom-vpc.jpeg)
+[AWS VPC Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
 
 ---
 # Day 03 - Foundational and Compute Service
