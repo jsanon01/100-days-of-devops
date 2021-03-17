@@ -73,10 +73,10 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 
 - Auto scaling and Load Balancing
 
-	Create launch configuration 
-	Create autoscaling group using the launch configuration
-	Create target groups
-	Create load balancer and have load balancer serves traffic to the instance
+	Create Launch Configuration 
+	Create AutoScaling Group using the Launch Configuration
+	Create Target Groups
+	Create Elastic Load Balancer and have load balancer serves traffic to the instance
 	Verify you can see webapp from your browser
 
 
@@ -89,3 +89,30 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 
 ---
 
+# Day 04 - Foundational and Compute Service
+
+#### Month: Dec 15, 2020
+
+**Focus**: The learning was focused on Lambda function and its parameters. I have put careful consideration on how to start and stop the instance. I even played around with API gateway that called the lambda function to bring the intance up/down.
+
+
+
+**Progress**:
+- Learn the basic of Lambda
+- Review the concepts of event source downstream resources, and log stream
+- Create Lambda function using the Python runtime in the editor
+- Creaye IAM roles to give not only Lambda access to EC2 but also CloudWatch
+- Code the lambda function to start/stop an EC2 instance
+- Playing around with environment variables
+
+
+**Thoughts**: Today, it was all about Lambda function. I have noticed that AWS Lambda  and API Gateway go hand in hand. Needless to say, they are the cores of Serverless Architecture. 
+
+
+**Work & Resources:**: 
+
+![AWS Lambda](https://github.com/jsanon01/100-days-of-devops/blob/main/images/start-stop-ec2-lambda.jpg)
+
+[AWS VPC Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
+
+---
