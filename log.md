@@ -39,6 +39,7 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 **Work & Resources:**: 
 
 ![Virtual Private Cloud](https://github.com/jsanon01/100-days-of-devops/blob/main/images/custom-vpc.jpeg)
+
 [AWS VPC Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
 
 ---
@@ -84,7 +85,7 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 
 **Work & Resources:**:
 
-[Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
+![Lab Design](https://github.com/jsanon01/100-days-of-devops/blob/main/images/day-1-1.png)
 
 ---
 
