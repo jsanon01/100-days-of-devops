@@ -113,6 +113,26 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 
 ![AWS Lambda](https://github.com/jsanon01/100-days-of-devops/blob/main/images/start-stop-ec2-lambda.jpg)
 
-[AWS VPC Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
-
 ---
+# Day 05 - AWS Management
+
+#### Month: Dec 16, 2020
+
+**Focus**: Today the learning aimed to better understand the AWS terminal meaning the AWS Command Line (CLI) Interface.
+
+
+
+**Progress**:
+- Getting the Raspberry Pi up and running with no GUI installed
+- Install the AWS CLI SDK
+- Getting familiar with the AWS CLI commands
+
+
+**Thoughts**: It is sometimes stressful when not knowing which commands to type to accomplish some tasks. It is great to spend some time to reading the CLI documention which will be not only one's best friend but also time-saving.  
+
+
+**Work & Resources:**: 
+
+![AWS CLI on Raspberry Pi](https://github.com/jsanon01/100-days-of-devops/blob/main/images/aws_cli.png)
+
+[AWS Command Line Interface Documentation](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
