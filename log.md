@@ -187,7 +187,7 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 
 #### Month: Dec 19, 2020
 
-**Focus**: Today the lesson was on SNS, SQS, and ECS.
+**Focus**: Today the lesson was about SNS, SQS, and ECS.
 
  
 
@@ -204,3 +204,55 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 **Work & Resources:**: 
 
 ![SNS Messaging Notification](https://github.com/jsanon01/100-days-of-devops/blob/main/images/sns.jpg)
+
+---
+# Day 09 - AWS Management
+
+#### Month: Dec 20, 2020
+
+**Focus**: Today the lesson was about CloudTrail, CloudWatch, and CloudFormation.
+
+ 
+
+**Progress**:
+- Create a CloudWatch event to notify via a SNS topic when an EC2 instance created
+- Create a CloudFormation stack using the CloudFormation Designer
+- Launch S3 bucket using Infrastructure as Code
+- Save and deploy a CloudFormation stack
+- View S3 Bucket created by CloudFormation Stack
+
+
+
+**Thoughts**: I have learned not only the basics but also the difference between the following AWS services: CloudTrail, Cloudwatch, and CloudFormation. 
+- With CloudTrail, you can log, continuously monitor, and retain account activity related to actions across your AWS infrastructure. 
+- With CloudWatch, you collect and track metrics, monitor log files, set alarms, and automatically react to changes in your AWS resources. 
+- With CloudFormation, you can describe your desired resources and their dependencies to launch and configure them together as a stack.
+
+
+**Work & Resources:**: 
+
+![Cloudwatch](https://github.com/jsanon01/100-days-of-devops/blob/main/images/cloudwatch-event.jpg)
+
+---
+# Day 10 - AWS Management
+
+#### Month: Dec 21, 2020
+
+**Focus**: Today it was all ablout AWS CLI which stands for Command Line Interface.
+
+ 
+
+**Progress**:
+- Getting the raspberry pi up and running (no GUI)
+- Install the AWS CLI SDK
+- Configure the AWS Command Line Interface (CLI)
+- Playing around with the AWS CLI commands
+
+
+
+**Thoughts**: It is a pain in the neck when not knowing which commands to use to accomplish some tasks. Becoming familiar with the CLI documention is a plus if I want to save tiime in the future.
+
+
+**Work & Resources:**: 
+
+[AWS Command Line Interface Documentation](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
