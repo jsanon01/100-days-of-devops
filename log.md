@@ -256,3 +256,53 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 **Work & Resources:**: 
 
 [AWS Command Line Interface Documentation](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
+
+---
+# Day 11 - Cloud Fundamentals Project 
+## Deploy Static Website on AWS
+
+#### Month: Dec 22, 2020
+
+**Focus**: Today the lesson focused on hosting and deploying a Static Website on AWS. 
+
+ 
+
+**Progress**:
+- Create an S3 bucket and secures it using IAM Policy
+- Create an A record for the website using Route53
+- Distribute the web site via CloudFront
+
+
+
+**Thoughts**: As I'm getting deeper in AWS best practices, security is at the heart of all AWS core services. Simply said, IAM policies specify what actions are allowed or denied on what AWS resources. On the other hand, S3 bucket policies are attached only to S3 buckets.
+
+
+**Work & Resources:**: 
+
+[The Travel Blog](https://jeremietravelblog.s3.amazonaws.com/index.html)
+
+----
+# Day 12 - Deployment Infrastructure as Code
+
+## Getting Started with CloudFormation
+
+#### Month: Dec 23, 2020
+
+**Focus**: Today the learning lesson was all about DevOps. 
+
+ 
+
+**Progress**:
+- Understanding the problem that DevOops is trying to solve
+- Understanding Infrastructure as Code
+- Understanding Continuous Integration (CI), Continuous Delivery (CD), Continuous Deployment (CD)
+- Getting familiar with DevOps tools such as configuration management tools like Ansible and deployment tools like Jenkins, Circle CI, etc...
+
+
+
+**Thoughts**: YouTube videos and some interesting articles on Information Technology helped me understand the role and benefits of DevOps in the Cloud Computing environment.
+
+
+**Work & Resources:**: 
+
+[CI/CD Documentation](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
