@@ -203,4 +203,4 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 
 **Work & Resources:**: 
 
-[AWS Best Practices](https://d1.awsstatic.com/whitepapers/aws-security-best-practices.pdf)
+![SNS Messaging Notification](https://github.com/jsanon01/100-days-of-devops/blob/main/images/sns.jpg)
