@@ -136,3 +136,71 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 ![AWS CLI on Raspberry Pi](https://github.com/jsanon01/100-days-of-devops/blob/main/images/aws_cli.png)
 
 [AWS Command Line Interface Documentation](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
+
+---
+# Day 06 - Storage & Content Delivery
+
+#### Month: Dec 17, 2020
+
+**Focus**: Among AWS services I have been working on today, I can state the following: S3 for storage and web hosting, DynamoDB for No SQL DB, RDS which is short for Relational Database Service, and CloudFront to speed up static and dynamic web content delivery. 
+
+
+
+**Progress**:
+- Create a NoSQL database using DynamoDB
+- Create a PostgreSQL database instance using RDS
+- Connect and query the databases
+- Create a S3 bucket and upload a simple web site to the bucket
+- Create a CloudFront distribution for the website
+
+
+**Thoughts**: The beauty of a network (LAN/WAN) is the connection of the devices. Moreover, the  interaction among AWS services makes hands-on funnier, as far as I'm concerned.  
+
+
+**Work & Resources:**: 
+
+[Introduction to CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
+
+---
+# Day 07 - Security
+
+#### Month: Dec 18, 2020
+
+**Focus**: Today the learning was on Security. As par of AWS Well-Architected Framework, security stressed the needs on applying best practices to keep your environment and the applications running in the Cloud in a secured manner. 
+
+
+
+**Progress**:
+- Create an IAM policy
+
+
+
+**Thoughts**: I have learned the model of shared security which means AWS is responsible for the "Security of the Cloud" while customers are responsible for "Security in the Cloud."  
+
+
+**Work & Resources:**: 
+
+[AWS Best Practices](https://d1.awsstatic.com/whitepapers/aws-security-best-practices.pdf)
+
+---
+# Day 08 - Messaging & Containers
+
+#### Month: Dec 19, 2020
+
+**Focus**: Today the lesson was on SNS, SQS, and ECS.
+
+ 
+
+
+
+**Progress**:
+- Create an IAM policy
+
+
+
+**Thoughts**: I have learned the model of shared security which means AWS is responsible for the "Security of the Cloud" while customers are responsible for "Security in the Cloud."  
+
+
+**Work & Resources:**: 
+
+[AWS Best Practices](https://d1.awsstatic.com/whitepapers/aws-security-best-practices.pdf)
