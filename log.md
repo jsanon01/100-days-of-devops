@@ -280,6 +280,7 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 **Work & Resources:**: 
 
 [The Travel Blog](https://jeremietravelblog.s3.amazonaws.com/index.html)
+![Travel Blog deployed by Cloudfront](https://github.com/jsanon01/100-days-of-devops/blob/main/images/travel_blog.png)
 
 ----
 # Day 12 - Deployment Infrastructure as Code
@@ -308,7 +309,7 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 [CI/CD Documentation](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
 
 ----
-# Day 13 - Deployment Infrastructure as Code
+# Day 13 - Deployment Infrastructure as Code (Continued)
 
 ## Working on CloudFormation
 
@@ -333,9 +334,9 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 [CI/CD Documentation](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
 
 ----
-# Day 14 - Deployment Infrastructure as Code
+# Day 14 - Deployment Infrastructure as Code (Continued)
 
-#### Month: Dec 24, 2020
+#### Month: Dec 24, 2020 
 
 **Focus**: Today I learned the importance of the infrastructure diagrams and principles.  
 
