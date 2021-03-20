@@ -353,4 +353,4 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 
 **Work & Resources:**: 
 
-![Infrastructure as Code](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
+![Infrastructure as Code](https://github.com/jsanon01/100-days-of-devops/blob/main/images/iac.jpeg)
