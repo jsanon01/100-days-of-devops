@@ -369,7 +369,7 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 - Using the diagram I created the day before in an architectural manner.
 
 
-**Thoughts**: Regardless of the business, it has networking infrastructure and requirements. Simply said, converting the business requirements into infrastructure diagrams is one of the DevOps procedures in I.T.
+**Thoughts**: Regardless of the business, it has networking infrastructure and requirements. Simply said, converting the business requirements into infrastructure diagrams is one of the DevOps procedures in I.T. Moreover, I have used AWS Direct Connect enabling "customers to have low latency, secure and private connections to AWS for workloads which require higher speed the Internet."
 
 
 
@@ -377,3 +377,93 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 **Work & Resources:**: 
 
 ![Hybrid Diagram](https://github.com/jsanon01/100-days-of-devops/blob/main/images/on-premise-day15.jpeg)
+
+----
+# Day 16 - Networking Infrastructure
+
+#### Month: Dec 26, 2020 
+
+**Focus**: Today the lesson was more on about Lab meaning "practicing Infrastructure as Code."  
+
+ 
+**Progress**:
+- Create the cloudformation stack which include the VPC
+- Update the stack by adding Internet Gatwway, Subnets, and Routing
+- Write 'create.sh' and 'update.sh' scripts for creating and updating the stack
+
+
+**Thoughts**: Hands-on: practicing 'Infrastructure as Code'
+
+
+
+
+**Work & Resources:**: 
+
+![Diagram to Code](https://github.com/jsanon01/100-days-of-devops/blob/main/images/diagram-to-code.jpeg)
+
+----
+# Day 17 - Servers & Security Groups
+
+#### Month: Dec 27, 2020 
+
+**Focus**: Today the lesson was more on about Lab meaning "practicing Infrastructure as Code."  
+
+ 
+**Progress**:
+- Creating the Security Groups (SGs)
+- Creating Auto-Scaling Group (ASG) and launch configuration
+- Getting familiar with interpretion errors, and how to fix them
+
+
+**Thoughts**: The errors helped strengthen my skills and to go deeper into research on how to fix something that was incorrectly done.
+
+
+
+**Work & Resources:**: 
+
+[Security Group Rules](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/security-group-rules-reference.html)
+
+----
+# Day 18 - Servers & Security Groups (Continued)
+
+#### Month: Dec 28, 2020 
+
+**Focus**: Today the lesson was to create an environment using AWS CloudFormation  
+
+ 
+**Progress**:
+- Creating the network infrastructure
+- Secure the infrastructure
+- Creating EC2 instance
+- Deploy an application
+
+
+**Thoughts**: Hands-on and Follow-up.
+
+
+
+**Work & Resources:**: 
+
+[AWS CloudFormation & Network Infrastructure](https://computingforgeeks.com/create-aws-network-architecture-with-cloudformation/)
+
+----
+# Day 19 - Storage & Databases
+
+#### Month: Dec 29, 2020 
+
+**Focus**: Adding RDS DB to the infrastructure  
+
+ 
+**Progress**:
+- Create an MySQL database
+- Configure the database for replication
+- Connecting to the database
+
+
+**Thoughts**: I have learned a lot, simply, by practicing. Also, it is one of the AWS best practices to add the database in the private subnet provide additional security preventing unauthorize access to the data.
+
+
+
+**Work & Resources:**: 
+
+[Amazon RDS](https://aws.amazon.com/premiumsupport/knowledge-center/rds-connect-ec2-bastion-host/)
