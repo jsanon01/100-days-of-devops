@@ -300,9 +300,57 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 
 
 
-**Thoughts**: YouTube videos and some interesting articles on Information Technology helped me understand the role and benefits of DevOps in the Cloud Computing environment.
+**Thoughts**: YouTube videos along with Udemy.com, Lynda.com and some interesting articles on Information Technology helped me understand the role and benefits of DevOps in the Cloud Computing environment.
 
 
 **Work & Resources:**: 
 
 [CI/CD Documentation](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
+
+----
+# Day 13 - Deployment Infrastructure as Code
+
+## Working on CloudFormation
+
+#### Month: Dec 24, 2020
+
+**Focus**: Today I learned the basic of CloudFormation. 
+
+ 
+**Progress**:
+- Learned about CloudFormation template and stack of resources
+- Create a YML CloudFormation template
+- Create a VPC Resource
+- Running the template vis the CLI to create the stack
+- Use the CLI to verify the stack created and VPC online
+
+
+**Thoughts**: Thanks again to YouTube videos along with Udemy.com, Lynda.com that helped me understand the role and benefits of DevOps in the Cloud Computing environment.
+
+
+**Work & Resources:**: 
+
+[CI/CD Documentation](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
+
+----
+# Day 14 - Deployment Infrastructure as Code
+
+#### Month: Dec 24, 2020
+
+**Focus**: Today I learned the importance of the infrastructure diagrams and principles.  
+
+ 
+**Progress**:
+- Create a Lucid Chart Account
+- Setting up a Lucid Chart
+- Using the diagrams to create a Cloud environment
+
+
+**Thoughts**: The diagram is as important as descriptive. It helps you to see where the location of services, subnets, route tables, and others within the cloud environment.
+
+
+
+
+**Work & Resources:**: 
+
+![Infrastructure as Code](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
