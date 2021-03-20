@@ -355,3 +355,25 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 **Work & Resources:**: 
 
 ![Infrastructure as Code](https://github.com/jsanon01/100-days-of-devops/blob/main/images/iac.jpeg)
+
+----
+# Day 15 - Diagram for Hybrid Cloud Environment
+
+#### Month: Dec 25, 2020 
+
+**Focus**: Today the lesson focused on diagrams in a hybrid cloud environment.  
+
+ 
+**Progress**:
+- Getting familiar AWS diagrams
+- Using the diagram I created the day before in an architectural manner.
+
+
+**Thoughts**: Regardless of the business, it has networking infrastructure and requirements. Simply said, converting the business requirements into infrastructure diagrams is one of the DevOps procedures in I.T.
+
+
+
+
+**Work & Resources:**: 
+
+![Hybrid Diagram](https://github.com/jsanon01/100-days-of-devops/blob/main/images/on-premise-day15.jpeg)
