@@ -467,3 +467,47 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 **Work & Resources:**: 
 
 [Amazon RDS](https://aws.amazon.com/premiumsupport/knowledge-center/rds-connect-ec2-bastion-host/)
+
+----
+# Day 20 - Diagram Architecture (Infrastructure as Code)
+
+#### Month: Dec 30, 2020 
+
+**Focus**: Recap the main concepts  
+
+ 
+**Progress**:
+- Creating VPC
+- Creating Internet Gateway
+- Creating Subnets
+- Creating Route and Route Tables
+
+
+**Thoughts**: Recapping what I have learned by practicing. 
+
+
+**Work & Resources:**: 
+
+![Amazon RDS](https://github.com/jsanon01/100-days-of-devops/blob/main/images/task1.png)
+
+----
+# Day 21 - Diagram Architecture (Infrastructure as Code)
+
+#### Month: Jan 1, 2021 
+
+**Focus**: Recap the main concepts (Continued)  
+
+ 
+**Progress**:
+- Creating the NAT gateway
+- Creating the Private Route table
+- Attaching Route table to Subnets
+
+
+**Thoughts**: Recapping what I have learned by practicing. 
+
+
+
+**Work & Resources:**: 
+
+[IAC Diagram](https://geekflare.com/infrastructure-as-code-intro/)
