@@ -511,3 +511,47 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 **Work & Resources:**: 
 
 [IAC Diagram](https://geekflare.com/infrastructure-as-code-intro/)
+
+----
+# Day 22 - Infrastructure as Code (Diagram Continued)
+
+#### Month: Jan 2, 2021 
+
+**Focus**: Adding RDS DB to the Diagram  
+
+ 
+**Progress**:
+- Create DB subnet group
+- Create RDS DB instance
+
+
+**Thoughts**:  It is AWS best practices to have High Availability when running RDS which needs at least two subnets in two Availability Zones. One subnet for the primary DB and the other for the replicated database.
+
+
+
+**Work & Resources:**: 
+
+[RDS in Multi-AZ](https://github.com/jsanon01/100-days-of-devops/blob/main/images/rds_in_AZs.jpeg)
+
+----
+# Day 23 - Reviewing Diagram and Infrastructure as Code
+
+#### Month: Jan 3, 2021 
+
+**Focus**: Recapping many concepts 
+
+ 
+**Progress**:
+- Reviewing VPC, Subnets, SGs
+- Reviewing AWS Lambda, API Gateway
+- Reviewing RDS and its deployment in Multi-AZ environment
+
+
+**Thoughts**: Recapping what I have learned by practicing. 
+
+
+
+**Work & Resources:**: 
+
+[AWS Overview](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/amazon-web-services-cloud-platform.html)
+
