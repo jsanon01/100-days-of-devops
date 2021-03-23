@@ -531,7 +531,7 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 
 **Work & Resources:**: 
 
-[RDS in Multi-AZ](https://github.com/jsanon01/100-days-of-devops/blob/main/images/rds_in_AZs.jpeg)
+![RDS in Multi-AZ](https://github.com/jsanon01/100-days-of-devops/blob/main/images/rds_in_AZs.jpeg)
 
 ----
 # Day 23 - Reviewing Diagram and Infrastructure as Code
