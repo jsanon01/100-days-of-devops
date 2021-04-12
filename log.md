@@ -564,13 +564,13 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 
  
 **Arrays of DevOps Tools I will work on**:
-- Version Control
-- Build Tools
-- CI/CD
-- Cloud-IAAS
-- Containers
-- Container/Orchestration
-- Infrastructure as Code
+- Version Control => GIT
+- Build Tools => NPM, Maven, Gradle
+- CI/CD => Jenkins
+- Cloud-IAAS => AWS, Azure, GCP, Digital Ocean, Linode
+- Containers => Docker
+- Container/Orchestration => Kubernetes
+- Infrastructure as Code => AWS CloudFormation, Terraform
 
 
 **Thoughts**: Below are sets of events that take place in a DevOps Pipeline:
