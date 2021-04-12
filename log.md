@@ -574,6 +574,7 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 
 
 **Thoughts**: Below are sets of events that take place in a DevOps Pipeline:
+
 Test --> Build --> Deploy --> Configure --> Maintain 
 
 
