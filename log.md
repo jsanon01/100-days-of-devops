@@ -555,3 +555,28 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 
 [AWS Overview](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/amazon-web-services-cloud-platform.html)
 
+----
+# Day 24 - DevOps Bootcamp Overview
+
+#### Month: April 12, 2021 
+
+**Focus**: Learning DevOps Concepts
+
+ 
+**Progress**:
+- Version Control
+- Build Tools
+- CI/CD
+- Cloud-IAAS
+- Containers
+- Container/Orchestration
+- Infrastructure as Code
+
+
+**Thoughts**: test --> build --> deploy --> configure --> maintain 
+
+
+
+**Work & Resources:**: 
+
+[AWS Overview](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/amazon-web-services-cloud-platform.html)
