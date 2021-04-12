@@ -563,7 +563,7 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 **Focus**: Learning DevOps Concepts
 
  
-**Progress**:
+**Arrays of DevOps Tools I will work on**:
 - Version Control
 - Build Tools
 - CI/CD
@@ -573,7 +573,8 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 - Infrastructure as Code
 
 
-**Thoughts**: test --> build --> deploy --> configure --> maintain 
+**Thoughts**: Below are sets of events that take place in a DevOps Pipeline:
+Test --> Build --> Deploy --> Configure --> Maintain 
 
 
 
