@@ -564,10 +564,10 @@ In addition, Cloud Computing uses computer system resources, especially data sto
 
  
 **Arrays of DevOps Tools I will work on**:
-- Version Control => GIT
+- Version Control => GIT / GITLAB
 - Build Tools => NPM, Maven, Gradle
 - CI/CD => Jenkins
-- Cloud-IAAS => AWS, Azure, GCP, Digital Ocean, Linode
+- Cloud-IaaS => AWS, Azure, GCP, Digital Ocean, Linode
 - Containers => Docker
 - Container/Orchestration => Kubernetes
 - Infrastructure as Code => AWS CloudFormation, Terraform
