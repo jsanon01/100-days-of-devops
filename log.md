@@ -636,6 +636,6 @@ I have read some useful websites related to Project Management. Here are two of 
 
 [Project Management](https://project-management.com/agile-vs-waterfall/)
 
-![Agile vs Waterfall](https://project-management.com/agile-vs-waterfall/#differences)
+[Agile vs Waterfall](https://project-management.com/agile-vs-waterfall/#differences)
 
 ![Waterfall](https://github.com/jsanon01/100-days-of-devops/blob/main/images/agile-waterfall.png)
