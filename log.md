@@ -608,3 +608,28 @@ Test --> Build --> Deploy --> Configure --> Maintain
 **Work & Resources:**: 
 
 [Waterfall](https://project-management.com/agile-vs-waterfall/#what-is-waterfall)
+
+----
+# Day 26 - Overview & concepts Explained
+
+#### Month: April 14, 2021 
+
+**Focus**: Different Roles with Job Descriptions
+
+ 
+**Progress**:
+=> Agile
+- Faster Software Development life cycle
+- Immediate Feedback
+- Each feature gets tested and deployed
+- Efficient way to do things
+- Flexible in accepting changes
+
+
+
+**Thoughts**: Agile is at the core of CI/CD.
+
+
+**Work & Resources:**: 
+
+[Waterfall](https://project-management.com/agile-vs-waterfall/#what-is-waterfall)
