@@ -594,19 +594,17 @@ Test --> Build --> Deploy --> Configure --> Maintain
 **Progress**:
 => WaterFall
 - Ineffective Process
-- No fast Feedback
+- No Fast Feedback
 - Many places of failure
 - Miscommunication
 - Over time new requirements may arise
 
 
 
-**Thoughts**: Below are sets of events that take place in a DevOps Pipeline:
-
-Test --> Build --> Deploy --> Configure --> Maintain 
+**Thoughts**: Waterfall is one of the most popular ,ethodology used by engineering teams. Thus, it is allowed no allowance for uncertainty; and testing is done only at the latter phases of the project.  
 
 
 
 **Work & Resources:**: 
 
-[AWS Overview](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/amazon-web-services-cloud-platform.html)
+[Waterfall](https://project-management.com/agile-vs-waterfall/#what-is-waterfall)
