@@ -582,3 +582,31 @@ Test --> Build --> Deploy --> Configure --> Maintain
 **Work & Resources:**: 
 
 [AWS Overview](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/amazon-web-services-cloud-platform.html)
+
+----
+# Day 25 - Overview & concepts Explained
+
+#### Month: April 13, 2021 
+
+**Focus**: Different Roles with Job Descriptions
+
+ 
+**Progress**:
+=> WaterFall
+- Ineffective Process
+- No fast Feedback
+- Many places of failure
+- Miscommunication
+- Over time new requirements may arise
+
+
+
+**Thoughts**: Below are sets of events that take place in a DevOps Pipeline:
+
+Test --> Build --> Deploy --> Configure --> Maintain 
+
+
+
+**Work & Resources:**: 
+
+[AWS Overview](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/amazon-web-services-cloud-platform.html)
