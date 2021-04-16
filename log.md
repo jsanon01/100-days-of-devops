@@ -610,7 +610,7 @@ Test --> Build --> Deploy --> Configure --> Maintain
 [Waterfall](https://project-management.com/agile-vs-waterfall/#what-is-waterfall)
 
 ----
-# Day 26 - Overview & concepts Explained
+# Day 26 - Overview & Concepts Explained (Continued)
 
 #### Month: April 14, 2021 
 
@@ -628,6 +628,37 @@ Test --> Build --> Deploy --> Configure --> Maintain
 
 
 **Thoughts**: Agile is at the core of CI/CD.
+
+
+**Work & Resources:**: 
+
+I have read some useful websites related to Project Management. Here are two of them:
+
+[Project Management](https://project-management.com/agile-vs-waterfall/)
+
+[Agile vs Waterfall](https://project-management.com/agile-vs-waterfall/#differences)
+
+![Waterfall](https://github.com/jsanon01/100-days-of-devops/blob/main/images/agile-waterfall.png)
+
+----
+# Day 27 - Agile & DevOps
+
+#### Month: April 15, 2021 
+
+**Focus**: Different Roles with Job Descriptions
+
+ 
+**Progress**:
+=> Agile
+- Faster Software Development life cycle
+- Immediate Feedback
+- Each feature gets tested and deployed
+- Efficient way to do things
+- Flexible in accepting changes
+
+
+
+**Thoughts**: The software Development field is pretty big and requires different roles. Every role leads to a different job description.
 
 
 **Work & Resources:**: 
