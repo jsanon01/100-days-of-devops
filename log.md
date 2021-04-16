@@ -584,7 +584,7 @@ Test --> Build --> Deploy --> Configure --> Maintain
 [AWS Overview](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/amazon-web-services-cloud-platform.html)
 
 ----
-# Day 25 - Overview & concepts Explained
+# Day 25 - Overview & Concepts Explained
 
 #### Month: April 13, 2021 
 
@@ -663,10 +663,6 @@ I have read some useful websites related to Project Management. Here are two of 
 
 **Work & Resources:**: 
 
-I have read some useful websites related to Project Management. Here are two of them:
+This picture below clearly explains the relationship between Agile methodology and DevOps in Software Development process.
 
-[Project Management](https://project-management.com/agile-vs-waterfall/)
-
-[Agile vs Waterfall](https://project-management.com/agile-vs-waterfall/#differences)
-
-![Waterfall](https://github.com/jsanon01/100-days-of-devops/blob/main/images/agile-waterfall.png)
+![Agile & DevOps](https://github.com/jsanon01/100-days-of-devops/blob/main/images/agile-devops.png)
