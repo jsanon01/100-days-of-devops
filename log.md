@@ -645,7 +645,7 @@ I have read some useful websites related to Project Management. Here are two of 
 
 #### Month: April 15, 2021 
 
-**Focus**: Different Roles with Job Descriptions
+**Focus**: Agile & DevOps Relationship
 
  
 **Progress**:
@@ -666,3 +666,59 @@ I have read some useful websites related to Project Management. Here are two of 
 This picture below clearly explains the relationship between Agile methodology and DevOps in Software Development process.
 
 ![Agile & DevOps](https://github.com/jsanon01/100-days-of-devops/blob/main/images/agile-devops.png)
+
+----
+# Day 28 - Version Control
+
+#### Month: April 16, 2021 
+
+**Focus**: Version Control => GIT | GITLAB
+
+ 
+**Progress**:
+- Developers work on the same code
+- Code is hosted centrally on the Internet
+- Each developer has an entire copy of the code locally
+- Code s fetched from remore repo and pushed to code repo
+
+
+
+
+**Thoughts**: Version Control is a component of the Software Configuration Managment. Simply said, it is an online collaborative platform for programmers and developers.
+
+
+**Work & Resources:**: 
+
+This picture below clearly explains the relationship between Agile methodology and DevOps in Software Development process.
+
+![Agile & DevOps](https://github.com/jsanon01/100-days-of-devops/blob/main/images/agile-devops.png)
+
+<!-- 
+----
+# Day 28 - Working With GIT
+
+#### Month: April 17, 2021 
+
+**Focus**: Useful Commands
+
+ 
+**Progress**:
+- Initialize Git project locally =>
+- Concept of Branches
+- Merge Requests =>
+- Deleting Branches =>
+- Avoiding Merge Commits (rebase) =>
+- Resolving Merge Conflicts =>
+- Going back in history (git checkout) =>
+- Undoing commits (git revert, git reset) =>
+- Merging Branches =>
+
+
+**Thoughts**: The command 'git log' is to GITHUB platform what the command 'history' is to Linux Distro. Not only they are very useful commands but also they show you all of the last commands that have been recently used. 
+
+
+**Work & Resources:**: 
+
+This picture below clearly explains the relationship between Agile methodology and DevOps in Software Development process.
+
+![Agile & DevOps](https://github.com/jsanon01/100-days-of-devops/blob/main/images/agile-devops.png) -->
