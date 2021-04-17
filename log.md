@@ -691,7 +691,7 @@ This picture below clearly explains the relationship between Agile methodology a
 
 This picture below clearly explains the relationship between Agile methodology and DevOps in Software Development process.
 
-![Agile & DevOps](https://github.com/jsanon01/100-days-of-devops/blob/main/images/agile-devops.png)
+![GITHUB](https://github.com/jsanon01/100-days-of-devops/blob/main/images/github.png)
 
 <!-- 
 ----
