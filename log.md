@@ -689,7 +689,7 @@ This picture below clearly explains the relationship between Agile methodology a
 
 **Work & Resources:**: 
 
-This picture below clearly explains the relationship between Agile methodology and DevOps in Software Development process.
+This picture below clearly explains the path between 'Local Repo' and 'Remote Repo' in the Software Configuration Management process.
 
 ![GITHUB](https://github.com/jsanon01/100-days-of-devops/blob/main/images/github.png)
 
