@@ -708,7 +708,7 @@ This picture below clearly explains the path between 'Local Repo' and 'Remote Re
 - And from local to remote repo, 'git push'
 
 
-**Thoughts**: The command 'git log' is to GITHUB platform what the command 'history' is to Linux Distro. Commands are not only very useful but also they show you all of the last commands that have been recently used. 
+**Thoughts**: The command 'git log' is to GITHUB platform what the command 'history' is to Linux Distro. This command is not only very useful but also shows you all of the previous commands that have been recently used. 
 
 **Work & Resources:**: 
 
@@ -726,10 +726,11 @@ This picture below clearly explains the workflow of GIT in Software Development 
 
  
 **Progress**:
-- Initialize Git project locally =>
-- Concept of Branches
+- Initialize Git project locally => git init | git remote add 'origin' | git[ ad, commit, push]
+- Connecting Branches => git push --set-upstream origin master 
 - Merge Requests =>
-- Deleting Branches =>
+- To see hidden (.git) files => ls -la 
+- Deleting Branches => rm -rf .git
 - Avoiding Merge Commits (rebase) =>
 - Resolving Merge Conflicts =>
 - Going back in history (git checkout) =>
@@ -737,10 +738,41 @@ This picture below clearly explains the workflow of GIT in Software Development 
 - Merging Branches =>
 
 
-**Thoughts**: The command 'git log' is to GITHUB platform what the command 'history' is to Linux Distro. Commands are not only very useful but also they show you all of the last commands that have been recently used. 
+**Thoughts**: Learning by doing makes skills perfect.
+Head -> Master is connected locally
+Master -> Master is connected remotely
 
 **Work & Resources:**: 
 
 This picture below clearly explains the workflow of GIT in Software Development process.
 <!--
 ![GIT Workflow](https://github.com/jsanon01/100-days-of-devops/blob/main/images/git_workflow.png) -->
+
+<!-- -->
+----
+# Day 30 - Working With GIT (Continued)
+
+#### Month: April 19, 2021 
+
+**Focus**: Concepts of Branches
+
+ 
+**Progress**:
+ 2 ways to create branches
+ - Fron the GITHUB web interface (GUI) | click on 'new branch' | named 'bugfix'
+     - git pull [ new branch named will appear => 'bugfix' ] 
+	- git checkout bugfix
+	- (Switched to a new branch) => now everything will affect this specific branch...
+	- git checkout master => (going back to master branch)
+- From the terminal (doing 2 things in 1 command)
+   - git checkout -b 'branch name' => Creating and switching to a new branch
+
+**Thoughts**: Learning by doing not only has nothing to memorize but also makes skills perfect. This command is way faster and easier to execute <git checkout -b 'branch name'>
+Head -> Master is connected locally
+Master -> Master is connected remotely
+
+**Work & Resources:**: 
+
+This picture below clearly explains the workflow of GIT in Software Development process.
+
+![Concepts Branches](https://github.com/jsanon01/100-days-of-devops/blob/main/images/master-dev-branch.png)
