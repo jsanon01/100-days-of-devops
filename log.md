@@ -703,6 +703,29 @@ This picture below clearly explains the path between 'Local Repo' and 'Remote Re
 
  
 **Progress**:
+- Before executing 'git add', untracked files are usually 'red' 
+- In Staged process 'git commit', changes (files) to be committed are   usually 'green' 
+- And from local to remote repo, 'git push'
+
+
+**Thoughts**: The command 'git log' is to GITHUB platform what the command 'history' is to Linux Distro. Commands are not only very useful but also they show you all of the last commands that have been recently used. 
+
+**Work & Resources:**: 
+
+This picture below clearly explains the workflow of GIT in Software Development process.
+
+![GIT Workflow](https://github.com/jsanon01/100-days-of-devops/blob/main/images/git_workflow.png) 
+
+<!-- -->
+----
+# Day 29 - Working With GIT (Continued)
+
+#### Month: April 18, 2021 
+
+**Focus**: Useful Commands
+
+ 
+**Progress**:
 - Initialize Git project locally =>
 - Concept of Branches
 - Merge Requests =>
@@ -714,11 +737,10 @@ This picture below clearly explains the path between 'Local Repo' and 'Remote Re
 - Merging Branches =>
 
 
-**Thoughts**: The command 'git log' is to GITHUB platform what the command 'history' is to Linux Distro. Not only they are very useful commands but also they show you all of the last commands that have been recently used. 
-
+**Thoughts**: The command 'git log' is to GITHUB platform what the command 'history' is to Linux Distro. Commands are not only very useful but also they show you all of the last commands that have been recently used. 
 
 **Work & Resources:**: 
 
-This picture below clearly explains the relationship between Agile methodology and DevOps in Software Development process.
-
-![GIT Workflow](https://github.com/jsanon01/100-days-of-devops/blob/main/images/git_workflow.png) 
+This picture below clearly explains the workflow of GIT in Software Development process.
+<!--
+![GIT Workflow](https://github.com/jsanon01/100-days-of-devops/blob/main/images/git_workflow.png) -->
