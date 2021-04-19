@@ -721,4 +721,4 @@ This picture below clearly explains the path between 'Local Repo' and 'Remote Re
 
 This picture below clearly explains the relationship between Agile methodology and DevOps in Software Development process.
 
-![Agile & DevOps](https://github.com/jsanon01/100-days-of-devops/blob/main/images/agile-devops.png) 
+![GIT Workflow](https://github.com/jsanon01/100-days-of-devops/blob/main/images/git_workflow.png) 
