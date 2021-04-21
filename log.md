@@ -784,7 +784,7 @@ This picture below clearly describes best practices when working with GIT in Sof
 
 #### Month: April 20, 2021 
 
-**Focus**: DB in Software Development
+**Focus**: Ways to Install DB <!--DB in Software Development -->
 
 --- Option 1 | Locally ---
  - Each developer installs 'mysql DB' locally
@@ -807,9 +807,9 @@ Developers need databases for local development
 
 [Database endpoints and Credentials](https://aws.amazon.com/blogs/security/rotate-amazon-rds-database-credentials-automatically-with-aws-secrets-manager/) 
 
-<!-- 
+
 ----
-# Day 31 - Database Types
+# Day 32 - Database Types
 
 #### Month: April 21, 2021 
 
@@ -849,6 +849,35 @@ Developers need databases for local development
 
 - Relational Databases (most widely used)
     data are organized in tables (rows and columns)
+
+**Thoughts**: Ideal solution is to have both. DB Production should be much more secured compared to Dev and Test DBs.
+
+Developers need databases for local development
+
+**Work & Resources:**: 
+
+
+[Database endpoints and Credentials](https://aws.amazon.com/blogs/security/rotate-amazon-rds-database-credentials-automatically-with-aws-secrets-manager/) 
+
+<!--
+----
+# Day 33 - Build Tools & Package Manager
+
+#### Month: April 22, 2021 
+
+**Focus**: Ways to Install DB 
+
+--- Option 1 | Locally ---
+ - Each developer installs 'mysql DB' locally
+ - Each developer has his/her own DB with own  Test data
+
+ --- Option 2 | Remotely ---
+ - DB hosted remotely (no need for local installation)
+
+**Progress**:
+ A connection between database and the application is securely done. Simply said, here is an example:
+ - database endpoint => dataSource.setURL("jdbc:mysql://localohost:3306/db-name);
+ - credentials => dataSource.setUser("db-user);
 
 **Thoughts**: Ideal solution is to have both. DB Production should be much more secured compared to Dev and Test DBs.
 
