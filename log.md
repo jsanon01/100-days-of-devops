@@ -581,7 +581,7 @@ Test --> Build --> Deploy --> Configure --> Maintain
 
 **Work & Resources:**: 
 
-[AWS Overview](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/amazon-web-services-cloud-platform.html)
+![AWS Overview](https://github.com/jsanon01/100-days-of-devops/blob/main/images/devops-roles.png)
 
 ----
 # Day 25 - Overview & Concepts Explained
@@ -842,8 +842,8 @@ Developers need databases for local development
  - Wide Column Databases
 
     		Row Key 	Column		Column
-			
-	row: 	Peter		name		age
+
+	   row: 	Peter		name		age
 
 - Document Oriented Databases (are general-purpose)
     documents are containers for key-value pairs
