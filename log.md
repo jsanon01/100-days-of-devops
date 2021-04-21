@@ -786,11 +786,11 @@ This picture below clearly describes best practices when working with GIT in Sof
 
 **Focus**: DB in Software Development
 
---- Option 1 ---
+--- Option 1 | Locally ---
  - Each developer installs 'mysql DB' locally
  - Each developer has his/her own DB with own  Test data
 
- --- Option 2 ---
+ --- Option 2 | Remotely ---
  - DB hosted remotely (no need for local installation)
 
 **Progress**:
