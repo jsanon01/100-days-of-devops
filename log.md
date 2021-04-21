@@ -716,7 +716,7 @@ This picture below clearly explains the workflow of GIT in Software Development 
 
 ![GIT Workflow](https://github.com/jsanon01/100-days-of-devops/blob/main/images/git_workflow.png) 
 
-<!-- -->
+<!-- rm -rf .git-->
 ----
 # Day 29 - Working With GIT (Continued)
 
@@ -730,7 +730,7 @@ This picture below clearly explains the workflow of GIT in Software Development 
 - Connecting Branches => git push --set-upstream origin master 
 - Merge Requests =>
 - To see hidden (.git) files => ls -la 
-- Deleting Branches => rm -rf .git
+- Deleting Branches => git branch -d 'branch name'
 - Avoiding Merge Commits (rebase) =>
 - Resolving Merge Conflicts =>
 - Going back in history (git checkout) =>
@@ -768,11 +768,91 @@ This picture below clearly explains the workflow of GIT in Software Development 
    - git checkout -b 'branch name' => Creating and switching to a new branch
 
 **Thoughts**: Learning by doing not only has nothing to memorize but also makes skills perfect. This command is way faster and easier to execute <git checkout -b 'branch name'>
-Head -> Master is connected locally
-Master -> Master is connected remotely
+
+- Head -> Master is connected locally
+- Master -> Master is connected remotely
 
 **Work & Resources:**: 
 
-This picture below clearly explains the workflow of GIT in Software Development process.
+This picture below clearly describes best practices when working with GIT in Software Development process.
 
 ![Concepts Branches](https://github.com/jsanon01/100-days-of-devops/blob/main/images/master-dev-branch.png)
+
+
+----
+# Day 30 - Databases
+
+#### Month: April 20, 2021 
+
+**Focus**: DB in Software Development
+--- Option 1 ---
+ - Each developer installs 'mysql DB' locally
+ - Each developer has his/her own DB with own  Test data
+ --- Option 2 ---
+ - DB hosted remotely (no need for local installation)
+
+**Progress**:
+ A connection between database and the application is securely done. Simply said, here is an example:
+ - database endpoint => dataSource.setURL("jdbc:mysql://localohost:3306/db-name);
+ - credentials => dataSource.setUser("db-user);
+
+**Thoughts**: Ideal solution is to have both. DB Production should be much more secured compared to Dev and Test DBs.
+
+Developers need databases for local development
+
+**Work & Resources:**: 
+
+
+[Database endpoints and Credentials](https://aws.amazon.com/blogs/security/rotate-amazon-rds-database-credentials-automatically-with-aws-secrets-manager/) 
+
+<!-- 
+----
+# Day 31 - Database Types
+
+#### Month: April 21, 2021 
+
+**Focus**: Brightsides and Pitfalls
+- Key-Value Databses => Examples: Redis, Memcached, etcd Kubernetes 
+    - Brightsides => unique key, no joins, very fast (stored data in memory)
+	- Pitfalls => limited storage, no primary DB
+	- Best for: caching, message queue,  & Real time Apps. 
+	  Examples: Twitter, Snapshot, Kubernetes (for caching clusters)...
+    
+- Wide Column Databases => Examples: Cassandra, Apache HBase
+    - Brightsides => very scalable across servers, schema-less
+	- Pitfalls => no joins, queries similar to SQL, limited compared to RDBMS, no Primary DB
+	- Best for: handling large unstructured data, historical records
+	Examples: Time-Series, IoT Records, smart cards, sensors...
+
+- Document Oriented Database => Examples: MongoDB, DynamoDB, CouchDB (all are schema-less)
+    - Brightsides => no joins, faster to read, easy to get started, Primary DB
+	- Pitfalls => slower writes, not suitable for graphs, not to be used in social media like Facebook where all users are co-related...
+	- Best for: Mobile Apps, Game Apps, CMS, most apps...
+
+- Relational Databases => Examples: MySQL, Postgresql
+    - Brightsides => to store structured data, schema, most widely used, 
+	- Pitfalls => 
+
+**Progress**:
+ - Key-Value Databases
+     23931 -> {'name': 'Laura', "age": 62}
+ 
+ - Wide Column Databases
+    		Row Key 	Column		Column
+	row: 	Peter		name		age
+
+- Document Oriented Databases (are general-purpose)
+    documents are containers for key-value pairs
+	'name': 'paul', 'age': 24
+
+- Relational Databases (most widely used)
+    data are organized in tables (rows and columns)
+
+**Thoughts**: Ideal solution is to have both. DB Production should be much more secured compared to Dev and Test DBs.
+
+Developers need databases for local development
+
+**Work & Resources:**: 
+
+
+[Database endpoints and Credentials](https://aws.amazon.com/blogs/security/rotate-amazon-rds-database-credentials-automatically-with-aws-secrets-manager/) -->
