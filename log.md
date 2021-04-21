@@ -581,7 +581,7 @@ Test --> Build --> Deploy --> Configure --> Maintain
 
 **Work & Resources:**: 
 
-![AWS Overview](https://github.com/jsanon01/100-days-of-devops/blob/main/images/devops-roles.png)
+![DevOps Roles](https://github.com/jsanon01/100-days-of-devops/blob/main/images/devops_roles.png)
 
 ----
 # Day 25 - Overview & Concepts Explained
