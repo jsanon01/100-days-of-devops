@@ -780,14 +780,16 @@ This picture below clearly describes best practices when working with GIT in Sof
 
 
 ----
-# Day 30 - Databases
+# Day 31 - Databases
 
 #### Month: April 20, 2021 
 
 **Focus**: DB in Software Development
+
 --- Option 1 ---
  - Each developer installs 'mysql DB' locally
  - Each developer has his/her own DB with own  Test data
+
  --- Option 2 ---
  - DB hosted remotely (no need for local installation)
 
