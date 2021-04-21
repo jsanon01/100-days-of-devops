@@ -784,7 +784,7 @@ This picture below clearly describes best practices when working with GIT in Sof
 
 #### Month: April 20, 2021 
 
-**Focus**: Ways to Install DB <!--DB in Software Development -->
+**Focus**: Ways to Install/Run DB
 
 --- Option 1 | Locally ---
  - Each developer installs 'mysql DB' locally
@@ -840,7 +840,9 @@ Developers need databases for local development
      23931 -> {'name': 'Laura', "age": 62}
  
  - Wide Column Databases
+
     		Row Key 	Column		Column
+			
 	row: 	Peter		name		age
 
 - Document Oriented Databases (are general-purpose)
