@@ -861,7 +861,7 @@ Developers need databases for local development
 
 [Database endpoints and Credentials](https://aws.amazon.com/blogs/security/rotate-amazon-rds-database-credentials-automatically-with-aws-secrets-manager/) 
 
-<!--
+
 ----
 # Day 33 - Build Tools & Package Manager
 
@@ -888,4 +888,4 @@ Developers need databases for local development
 **Work & Resources:**: 
 
 
-[Database endpoints and Credentials](https://aws.amazon.com/blogs/security/rotate-amazon-rds-database-credentials-automatically-with-aws-secrets-manager/) -->
+[Database endpoints and Credentials](https://aws.amazon.com/blogs/security/rotate-amazon-rds-database-credentials-automatically-with-aws-secrets-manager/) 
