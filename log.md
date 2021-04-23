@@ -1,7 +1,7 @@
 # Day 01 - Introduction to Cloud Computing
 
 #### Month: Dec 12, 2020
-
+--- 
 **Focus**: The learning focuses on understanding the Cloud Computing ecosystem and as well as its on-demand availability, scalability, and elasticity.
 
 **Progress**:
