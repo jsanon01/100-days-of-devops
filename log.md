@@ -841,7 +841,7 @@ Developers need databases for local development
  
  - Wide Column Databases
 
-    	Row Key 	Column		Column
+    			Row Key 	Column		Column
 
 	   row: 	Peter		name		age
 
