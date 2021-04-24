@@ -805,7 +805,7 @@ Developers need databases for local development
 **Work & Resources:**: 
 
 
-[Database endpoints and Credentials](https://aws.amazon.com/blogs/security/rotate-amazon-rds-database-credentials-automatically-with-aws-secrets-manager/) 
+![DevOps DB Roles](https://github.com/jsanon01/100-days-of-devops/blob/main/images/devops-roles-db.png) 
 
 
 ----
@@ -841,7 +841,7 @@ Developers need databases for local development
  
  - Wide Column Databases
 
-    			Row Key 	Column		Column
+    		Row Key 	Column		Column
 
 	   row: 	Peter		name		age
 
